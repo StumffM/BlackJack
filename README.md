@@ -1,3 +1,4 @@
+**FEITO EM 2024**
 Este projeto implementa um jogo de BlackJack em Java, desenvolvido como atividade da Faculdade, para cadeira POO. A aplicação foi estruturada seguindo princípios de encapsulamento, abstração e separação de responsabilidades.
 
 Estrutura dos arquivos:
